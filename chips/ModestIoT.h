@@ -30,6 +30,16 @@
 #include "EventHandler.h"
 #include "CommandHandler.h"
 #include "Sensor.h"
+#include "Actuator.h"
+#include "Button.h"
+#include "Led.h"
 #include "Device.h"
+#include "UltrasoundSensor.h"
+#include "RelayModule.h"
+#include "CiaSteelFaucet.h"
+#include "GpsSensor.h"
+#include "RfidSensor.h"
+#include "CommunicationHandler.h"
+#include "TrackingDevice.h"
 
 #endif // MODEST_IOT_H
